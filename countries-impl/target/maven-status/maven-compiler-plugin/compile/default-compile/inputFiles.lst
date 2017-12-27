@@ -1,0 +1,10 @@
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/entity/Message.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/Countries.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/entity/CountryCommand.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/CountryServiceImpl.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/entity/ContryEntity.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/readside/CountriesController.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/CountryModule.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/entity/CountryState.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/readside/CountriesRecord.java
+/home/marko/Projects/Lagom/hello/countries-impl/src/main/java/mare/countries/impl/entity/CountryEvent.java

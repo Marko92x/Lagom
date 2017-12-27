@@ -1,0 +1,6 @@
+[2017-12-26 17:03:33,926] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker marko-H81M-S2PV:9092 (id: 0 rack: null) (state.change.logger)
+[2017-12-26 17:05:46,155] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker marko-H81M-S2PV:9092 (id: 0 rack: null) (state.change.logger)
+[2017-12-26 17:09:27,587] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker marko-H81M-S2PV:9092 (id: 0 rack: null) (state.change.logger)
+[2017-12-26 17:10:15,666] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker marko-H81M-S2PV:9092 (id: 0 rack: null) (state.change.logger)
+[2017-12-26 17:13:00,464] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker marko-H81M-S2PV:9092 (id: 0 rack: null) (state.change.logger)
+[2017-12-26 17:14:26,013] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker marko-H81M-S2PV:9092 (id: 0 rack: null) (state.change.logger)
